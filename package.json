@@ -1,0 +1,24 @@
+{
+  "name": "frank-test-1",
+  "version": "1.0.0",
+  "description": "这是一个ui框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhaopeng/frank-test-1.git"
+  },
+  "keywords": [
+    "ui",
+    "vue",
+    "xiaoui"
+  ],
+  "author": "xiaozhaopeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaozhaopeng/frank-test-1/issues"
+  },
+  "homepage": "https://github.com/xiaozhaopeng/frank-test-1#readme"
+}
